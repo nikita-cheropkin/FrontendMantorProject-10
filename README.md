@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-7cnGaRvPvR)
-- Live Site URL: [Live Site](https://nikita-cheropkin.github.io/FrontendManorProject-4/qr-code-component/index.html)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-q44tMBLg79)
+- Live Site URL: [Live Site](https://nikita-cheropkin.github.io/FrontendMantorProject-10/stats-preview-card-component/site21.html)
 
 ## My process
 
