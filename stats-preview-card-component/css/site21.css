@@ -33,14 +33,14 @@ body {
 .card {
     display: flex;
     color: white;
-    width: 100%;
+    width: max-content;
     max-width: 1210px;
 }
 
 .left {
     flex: 1;
     background-color: var(--card-color);
-    padding: 70px;
+    padding: 70px 0px 70px 70px;
     display: flex;
     flex-direction: column;
     gap: 30px;
